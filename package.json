@@ -1,18 +1,26 @@
 {
   "name": "text-drawable",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A simple and fully customizable React Native component that implements a text drawable and text drawable list.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukadiyaAni/TextDrawable.git"
+  },
   "keywords": [
-    "Text",
+    "text",
     "drawable",
     "mobile",
     "react",
+    "react native",
+    "react component",
+    "react native component",
     "native",
     "ios",
+    "ui",
     "android",
     "react"
   ],
