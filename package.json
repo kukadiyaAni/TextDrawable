@@ -1,0 +1,27 @@
+{
+  "name": "text-drawable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Text",
+    "drawable",
+    "mobile",
+    "react",
+    "native",
+    "ios",
+    "android",
+    "react"
+  ],
+  "author": "Aniruddh",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
